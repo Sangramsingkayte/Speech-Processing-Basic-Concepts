@@ -3,10 +3,8 @@ Basic Concepts: Articulatory Phonetics – the development and classification of
 
 -----------------------------------------------------
 #How to convert .mp3 to .wav using python
---pip3 install pydub
 
-sudo apt-get update  
-sudo apt-get install software-properties-common
-sudo add-apt-repository ppa:mc3man/trusty-media  
-sudo apt-get install ffmpeg 
+pip install pydub
+pip install software-properties-common 
+pip install ffmpeg 
 -----------------------------------------------------
