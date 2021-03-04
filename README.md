@@ -8,7 +8,7 @@ pip install pydub
 
 pip install software-properties-common 
 
-pip install ffmpeg 
+**pip install ffmpeg ******
 -----------------------------------------------------
 
 2) Convert an audio file into text
